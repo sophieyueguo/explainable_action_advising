@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c15a1d6f5466bc2ae0c4dc13ae3ee3fe CMakeFiles/soccerwindow2_autogen

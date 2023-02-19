@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc/config.h
+
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc/rcsc/time/timer.cpp
+config.h
+-
+rcsc/timer.h
+-
+iostream
+-
+cstdio
+-
+sys/time.h
+-
+
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc/rcsc/time/timer.h
+iostream
+-
+
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc/rcsc/timer.h
+rcsc/time/timer.h
+-
+

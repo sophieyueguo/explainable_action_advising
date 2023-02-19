@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++11 -fPIC -O2 -g -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rcgrenameteam.dir/src/rcgrenameteam.cpp.o -o bin/rcgrenameteam  lib/librcsc_gz.a lib/librcsc_rcg.a -lz 

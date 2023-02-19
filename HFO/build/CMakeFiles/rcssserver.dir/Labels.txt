@@ -1,0 +1,13 @@
+# Target labels
+ rcssserver
+# Source files and their labels
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/rcssserver
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/rcssserver.rule
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/rcssserver-complete.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-install.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-mkdir.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-download.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-update.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-patch.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-configure.rule
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-stamp/rcssserver-build.rule

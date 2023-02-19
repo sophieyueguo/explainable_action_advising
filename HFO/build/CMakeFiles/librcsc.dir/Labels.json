@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc-complete.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-install.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-download.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-update.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-patch.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-configure.rule"
+		},
+		{
+			"file" : "/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"librcsc"
+		],
+		"name" : "librcsc"
+	}
+}

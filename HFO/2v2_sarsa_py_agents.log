@@ -1,0 +1,45 @@
+Creating team Agent2d (base)
+Creating team Agent2d (base)
+Launch npc base_left-1
+Launch npc base_left-2
+Launch npc base_left-3
+Launch npc base_left-4
+Launch npc base_left-5
+Launch npc base_left-6
+Waiting for player-controlled agent base_left-0: config_dir=/Users/yueguo/Downloads/HFO/bin/teams/base/config/formations-dt, server_port=6000, server_addr=localhost, team_name=base_left, play_goalie=False
+Launch npc base_left-8
+Launch npc base_left-9
+Launch npc base_left-10
+Waiting for player-controlled agent base_left-1: config_dir=/Users/yueguo/Downloads/HFO/bin/teams/base/config/formations-dt, server_port=6000, server_addr=localhost, team_name=base_left, play_goalie=False
+Launch npc base_right-1
+Launch npc base_right-2
+Launch npc base_right-3
+Launch npc base_right-4
+Launch npc base_right-5
+Launch npc base_right-6
+Launch npc base_right-7
+Launch npc base_right-8
+Launch npc base_right-9
+Launch npc base_right-10
+Launch npc base_right-11
+Checking all players connected
+TotalFrames = 0, AvgFramesPerTrial = nan, AvgFramesPerGoal = nan
+Trials             : 0
+Goals              : 0
+Defense Captured   : 0
+Balls Out of Bounds: 0
+Out of Time        : 0
+[start.py] Cleaning up server and other processes
+TURED_BY_DEFENSE-2
+EndOfTrial: 2 / 7 481 CAPTURED_BY_DEFENSE-2
+EndOfTrial: 2 / 8 585 OUT_OF_BOUNDS
+EndOfTrial: 2 / 9 654 CAPTURED_BY_DEFENSE-1
+EndOfTrial: 2 / 10 742 CAPTURED_BY_DEFENSE-1
+Something necessary closed (defense_npc_1), exiting
+TotalFrames = 743, AvgFramesPerTrial = 74.3, AvgFramesPerGoal = 99.0
+Trials             : 10
+Goals              : 2
+Defense Captured   : 7
+Balls Out of Bounds: 1
+Out of Time        : 0
+[start.py] Cleaning up server and other processes

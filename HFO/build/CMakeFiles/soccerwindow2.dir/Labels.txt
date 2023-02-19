@@ -1,0 +1,13 @@
+# Target labels
+ soccerwindow2
+# Source files and their labels
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/soccerwindow2
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/soccerwindow2.rule
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/soccerwindow2-complete.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-install.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-mkdir.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-download.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-update.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-patch.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-configure.rule
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-stamp/soccerwindow2-build.rule

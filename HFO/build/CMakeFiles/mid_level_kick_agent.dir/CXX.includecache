@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/HFO.hpp
+string
+-
+vector
+-
+common.hpp
+../src/common.hpp
+
+../src/common.hpp
+assert.h
+-
+stdlib.h
+-
+iostream
+-
+sstream
+-
+
+/Users/yueguo/Downloads/HFO/example/mid_level_kick_agent.cpp
+iostream
+-
+vector
+-
+HFO.hpp
+-
+cstdlib
+-
+math.h
+-
+

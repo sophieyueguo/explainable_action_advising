@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+be065a01c5132e091929b4fa01c78e55 /Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver/src/coach_lang_tok.cpp
+e704f9b00842c73bbd406c9ed497445f /Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver/src/coach_lang_tok_lex.yy.c
+a0c0b08aed9795ae795fd55727440773 /Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver/src/player_command_tok.cpp
+6e427226e5edea0094c8a009ace62071 /Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver/src/player_command_tok_lex.yy.c

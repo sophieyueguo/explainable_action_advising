@@ -1,0 +1,13 @@
+# Target labels
+ librcsc
+# Source files and their labels
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc.rule
+/Users/yueguo/Downloads/HFO/build/CMakeFiles/librcsc-complete.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-install.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-mkdir.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-download.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-update.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-patch.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-configure.rule
+/Users/yueguo/Downloads/HFO/build/librcsc-prefix/src/librcsc-stamp/librcsc-build.rule

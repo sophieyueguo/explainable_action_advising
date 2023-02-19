@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib/librcsc_time.a CMakeFiles/rcsc_time.dir/rcsc/time/timer.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib/librcsc_time.a

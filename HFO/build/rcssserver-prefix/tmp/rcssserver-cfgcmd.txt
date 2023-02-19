@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/3.19.3/bin/cmake;-DCMAKE_BUILD_TYPE=MinSizeRel;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

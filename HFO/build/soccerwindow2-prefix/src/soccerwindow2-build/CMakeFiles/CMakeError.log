@@ -1,0 +1,84 @@
+Determining if the Q_WS_X11 exist failed with the following output:
+Change Dir: /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_30f92/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_30f92.dir/build.make CMakeFiles/cmTC_30f92.dir/build
+Building CXX object CMakeFiles/cmTC_30f92.dir/CheckSymbolExists.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++  -F/usr/local/lib  -o CMakeFiles/cmTC_30f92.dir/CheckSymbolExists.cxx.o -c /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_X11'
+  return ((int*)(&Q_WS_X11))[argc];
+                  ^
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_30f92.dir/CheckSymbolExists.cxx.o] Error 1
+make[3]: *** [cmTC_30f92/fast] Error 2
+
+
+File /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_X11
+  return ((int*)(&Q_WS_X11))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0bbc2/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0bbc2.dir/build.make CMakeFiles/cmTC_0bbc2.dir/build
+Building CXX object CMakeFiles/cmTC_0bbc2.dir/CheckSymbolExists.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++  -F/usr/local/lib  -o CMakeFiles/cmTC_0bbc2.dir/CheckSymbolExists.cxx.o -c /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_WIN'
+  return ((int*)(&Q_WS_WIN))[argc];
+                  ^
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_0bbc2.dir/CheckSymbolExists.cxx.o] Error 1
+make[3]: *** [cmTC_0bbc2/fast] Error 2
+
+
+File /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2cc07/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_2cc07.dir/build.make CMakeFiles/cmTC_2cc07.dir/build
+Building CXX object CMakeFiles/cmTC_2cc07.dir/CheckSymbolExists.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++  -F/usr/local/lib  -o CMakeFiles/cmTC_2cc07.dir/CheckSymbolExists.cxx.o -c /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: use of undeclared identifier 'Q_WS_QWS'
+  return ((int*)(&Q_WS_QWS))[argc];
+                  ^
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_2cc07.dir/CheckSymbolExists.cxx.o] Error 1
+make[3]: *** [cmTC_2cc07/fast] Error 2
+
+
+File /Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

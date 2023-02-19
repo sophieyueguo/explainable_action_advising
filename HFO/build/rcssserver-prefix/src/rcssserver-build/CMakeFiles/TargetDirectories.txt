@@ -1,0 +1,7 @@
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/edit_cache.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rcssserver.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rcssnet.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rebuild_cache.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rcssgz.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rcssclangparser.dir
+/Users/yueguo/Downloads/HFO/build/rcssserver-prefix/src/rcssserver-build/CMakeFiles/rcssconfparser.dir

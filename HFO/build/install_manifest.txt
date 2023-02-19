@@ -1,0 +1,15 @@
+/Users/yueguo/Downloads/HFO/bin/soccerwindow2
+/Users/yueguo/Downloads/HFO/example/low_level_random_agent
+/Users/yueguo/Downloads/HFO/example/thread_agents
+/Users/yueguo/Downloads/HFO/example/high_level_random_agent
+/Users/yueguo/Downloads/HFO/example/mid_level_move_agent
+/Users/yueguo/Downloads/HFO/example/hfo_example_agent
+/Users/yueguo/Downloads/HFO/example/communication_agent
+/Users/yueguo/Downloads/HFO/example/mid_level_kick_agent
+/Users/yueguo/Downloads/HFO/example/mid_level_dribble_agent
+/Users/yueguo/Downloads/HFO/example/hand_coded_defense_agent
+/Users/yueguo/Downloads/HFO/bin/rcssserver
+/Users/yueguo/Downloads/HFO/bin/teams/base/agent
+/Users/yueguo/Downloads/HFO/bin/teams/base/sample_trainer
+/Users/yueguo/Downloads/HFO/bin/teams/base/sample_coach
+/Users/yueguo/Downloads/HFO/bin/teams/base/sample_player

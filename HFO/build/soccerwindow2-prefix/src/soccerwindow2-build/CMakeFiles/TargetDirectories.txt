@@ -1,0 +1,4 @@
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/rebuild_cache.dir
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/edit_cache.dir
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/soccerwindow2.dir
+/Users/yueguo/Downloads/HFO/build/soccerwindow2-prefix/src/soccerwindow2-build/CMakeFiles/soccerwindow2_autogen.dir
